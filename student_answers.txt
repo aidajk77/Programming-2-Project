@@ -1,0 +1,10 @@
+2   B        GH       C        DGE      E        CAEHBDF  EAG      ACGEHFD  EBHGF    BCFEDA  
+5   AFHD     FCE      EB       BAFEHC   BG       GHECFDA  GBDHFA   GC                C        
+4   GBCEF    B        AE                GD       FGCBE    FEAB     HBCAED   FBEAH    AE       
+6   BDFGCH   ABGEDFH  BGCEAHF  FDCB     CFDAEHB           AHEG     BCAFDG   EA       GDBEFH   
+7   BDGHC    HDGFCAB  BDA      FAHEG    DGE      DFGC     BD       GBHDFA            HEFD     
+8   CFDHAEG           AGHCFD   HCB      A        AHFCBED  BGAFH    AH       BFE      FGED     
+9   CD       BE       FCED              BCHAG    AE       AFBHDCG  FHDECA   BAHD     AFHCB    
+0   G        HECFBGA  F        AGCBEHD  FDGCEH   GBFDCA            FECG     GEBDCFH  GBAHEFC  
+1   FGHDBC   DCBE     A        BH       GCHFDAB  DBA      HECDAF   CDBEH    ECFG              
+3   G        CA       H        HFA      C        DACEBFH  H        BAGF     HADCFBE  F        
